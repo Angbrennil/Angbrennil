@@ -20,7 +20,7 @@ AddSubClass ("ranger", "urban explorer"), {
 	regExpSearch : /urbanexplorer/i,
 	subname : "Urban Explorer",
 	source : ["HB", 0],
-	fullname : "Urban Explorer (Ranger)",
+	fullname : "Urban Explorer",
 	features : {
 		
     "subclassfeature3" : {
